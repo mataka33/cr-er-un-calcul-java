@@ -1,0 +1,16 @@
+package mon1projet;
+
+import java.util.Scanner;
+
+public class jaja {
+
+	public static void main(String[] args) { 
+		Scanner entree = new Scanner(System.in);
+		System.out.println("nombre ?");
+		int A=entree.nextInt();
+		System.out.println(" le resultat de A x 3 :"+A*3);//nombre variable
+		
+
+	}
+
+}
